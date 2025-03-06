@@ -1,4 +1,4 @@
-# FLAMES Workshop - Community Hub & Updates*
+# FLAMES Workshop - Community Hub & Updates
 
 Welcome to the **FLAMES Workshop Community Hub!**  
 
