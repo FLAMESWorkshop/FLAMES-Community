@@ -1,6 +1,6 @@
 # FLAMES Workshop - Key Dates & Updates
 
-This file contains important dates, updates, and relevant information regarding the FLAMES Workshop.
+Below you can find the important dates, updates, and relevant information regarding the FLAMES Workshop.
 
 ### 🏆 **How to Participate**
 
