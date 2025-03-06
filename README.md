@@ -18,6 +18,13 @@ The FLAMES workshop organizers have compiled a **validation dataset**, integrati
 
 ---
 
+## ✍️ **How to Participate**
+
+- Participants will receive the aforementioned data after signing and returning through email the **Data Sharing Consent Agreement** to the organizers.
+- Once you have access to the data, you can begin experimenting with the different datasets offered! We encourage you to explore the various data sources and apply your methods to contribute to the understanding of LA hemodynamics.
+  
+---
+
 ## 📢 **Get Involved**  
 
 🔹 **Follow Updates** → Check the `Updates.md` file for the latest news on the challenge.  
