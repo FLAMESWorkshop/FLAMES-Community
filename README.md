@@ -20,7 +20,7 @@ The FLAMES workshop organizers have compiled a **validation dataset**, integrati
 
 ## 📢 **Get Involved**  
 
-🔹 **Follow Updates** → Check the `UPDATES.md` file for the latest news on the challenge.  
+🔹 **Follow Updates** → Check the `Updates.md` file for the latest news on the challenge.  
 🔹 **Ask Questions** → Use the **Issues** tab to post questions or request clarifications.  
 🔹 **Join the Discussion** → Engage in scientific discussions in the **Discussions** tab.  
 🔹 **Share Your Progress** → If you want to share insights (without raw data), feel free to open an issue or discussion thread.  
