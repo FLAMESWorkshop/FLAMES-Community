@@ -10,7 +10,8 @@ This repository serves as the central platform for **sharing updates, discussing
 
 ## 🔍 **About the Workshop**  
 
-The **FLAMES Workshop** focuses on **left atrium (LA) fluid simulations** using multi-source experimental data, including:  
+The FLAMES workshop organizers have compiled a **validation dataset**, integrating different imaging modalities, to enable the community to perform **verification and benchmarking studies**. The goal is to identify the most promising strategies and address existing challenges in left atrium (LA) fluid simulations using multi-source experimental data, including: 
+
 ✔ **In Vitro experiments** (3D-printed phantom + PIV measurements)  
 ✔ **4D Flow MRI data** (patient-specific imaging + segmentations)  
 ✔ **Dynamic Opacity CT scans** (time-dependent imaging of the left heart)  
