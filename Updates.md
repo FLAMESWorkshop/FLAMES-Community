@@ -10,6 +10,6 @@ Below you can find the important dates, updates, and relevant information regard
 
 ## 🤝 **A Collaborative Effort**
 
-The FLAMES workshop is **not a competition** but a **collaborative initiative**. Each research team contributes their expertise and results, fostering collective scientific progress. The final outcome will be a **co-authored scientific paper**, summarizing key findings and methodologies (anonymized to focus on collective insights rather than individual performance).
+The FLAMES workshop is **not a competition** but a **collaborative initiative**. Each research team contributes their expertise and results, fostering collective scientific progress. The final outcome will be a **co-authored scientific paper**, summarizing key findings and methodologies.
 
 Stay tuned for further updates! 🚀
