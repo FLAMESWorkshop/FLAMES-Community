@@ -2,11 +2,6 @@
 
 Below you can find the important dates, updates, and relevant information regarding the FLAMES Workshop:
 
-### 🏆 **How to Participate**
-
-- Participants will receive essential data (e.g., **geometrical domain, boundary conditions**) after signing and returning the **Data Sharing Consent Agreement** to `flamesworkshop25@gmail.com`.
-- Simulation results must be submitted by **May 16, 2025**, following a **predetermined format**.
-
 ## 📅 **Key Dates**
 
 - **May 16, 2025** → Submission deadline for simulation results (inclusive).
