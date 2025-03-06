@@ -1,6 +1,6 @@
 # FLAMES Workshop - Community Hub & Updates
 
-Welcome to the **FLAMES Workshop Community Hub!**  
+Welcome to the **FLAMES Workshop Community Hub!** 🔥 
 
 This repository serves as the central platform for **sharing updates, discussing ideas, and answering questions** about the **[FLAMES Workshop - Fluid Simulations of the Left Atrium with Multi-source Experimental Studies](https://github.com/FLAMESWorkshop/FLAMES-Community/blob/main/Documents/call_for_participants_FLAMES_workshop.pdf)**.  
 
