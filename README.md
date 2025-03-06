@@ -1,1 +1,1 @@
-# FLAMESInformative
+# FLAMES Workshop
