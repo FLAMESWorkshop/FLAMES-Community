@@ -2,7 +2,7 @@
 
 Welcome to the **FLAMES Workshop Community Hub!**  
 
-This repository serves as the central platform for **sharing updates, discussing ideas, and answering questions** about the **FLAMES Workshop - Fluid Simulations of the Left Atrium with Multi-source Experimental Studies**.  
+This repository serves as the central platform for **sharing updates, discussing ideas, and answering questions** about the **[FLAMES Workshop - Fluid Simulations of the Left Atrium with Multi-source Experimental Studies](https://github.com/FLAMESWorkshop/FLAMES-Community/blob/main/Documents/call_for_participants_FLAMES_workshop.pdf)**.  
 
 🚨 **Note**: This repository **does not contain datasets or experimental data**. If you are a participant, remember that the data is available in the private repository. If you have not yet requested access, please contact the organizers through email to facilitate your access!  
 
@@ -20,7 +20,7 @@ The FLAMES workshop organizers have compiled a **validation dataset**, integrati
 
 ## ✍️ **How to Participate**
 
-- Participants will receive the aforementioned data after signing and returning through email the **Data Sharing Consent Agreement** to the organizers.
+- Participants will receive the aforementioned data after signing and returning through email the **[Data Sharing Consent Agreement](https://github.com/FLAMESWorkshop/FLAMES-Community/blob/main/Documents/consent_agreement_FLAMES_workshop.pdf)** to the organizers.
 - Once you have access to the data, you can begin experimenting with the different datasets offered! We encourage you to explore the various data sources and apply your methods to contribute to the understanding of LA hemodynamics.
   
 ---
